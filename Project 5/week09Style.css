@@ -1,0 +1,69 @@
+body{
+	margin:0;
+	padding:0;
+}
+#mainContainer{
+	height:2000px;
+	width:1350px;
+	background-color:#0d0d0d;
+	margin:0;
+	padding:0;
+}
+
+#navigation a {
+	padding: 0 40px 0 40px;	
+	position: relative;
+	top:-40px;
+	font-size:25pt;
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#navigation ul li{
+display:inline;
+
+}
+#vivaLosTacos{
+	font-family:Monteserrat;
+	font-size:50pt;
+	margin:0;
+
+}
+
+.menuItem h1{
+	font-family: Segoe, "Segoe UI", "Dejavu Sans", "Trebuchet MS", 
+	Verdana, "sans-serif" ;
+}
+#adjuster{
+position:center;
+left:100px;
+top:-45px;
+
+}
+
+.menuItem {
+display: inline-block;
+width: 270px;
+color: #fff;
+padding: 0 15px 0 15px;
+
+
+}
+
+#menuContainer{
+	max-width:750px;
+	min-width:750px;
+	color: #fff;
+
+}
+
+.menuItem h2{
+ font-size: 50px;
+ text-align: center;
+
+
+
+}

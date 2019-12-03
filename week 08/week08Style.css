@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding:0;
+}
+#mainContainer{
+	height:2000px;
+	width:1350px;
+	background-color:#c7c5c4;
+	margin:0;
+	padding:0;
+}
+#navigation{
+	height:50px;
+	font-size:30px;
+	background-color:turquoise;
+}
+#navigation a {
+	padding: 0 40px 0 40px;	
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#navigation ul li{
+display:inline;
+
+}
